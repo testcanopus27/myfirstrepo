@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:android="http://schemas.android.com/tools">
+    <string android:name="com.twitter.sdk.android.CONSUMER_KEY">XXXXXXXXXXX</string>
+    <string android:name="com.twitter.sdk.android.CONSUMER_SECRET">XXXXXXXXXXX</string>
+</resources>
